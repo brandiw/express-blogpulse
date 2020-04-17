@@ -155,9 +155,6 @@ When finished with the above, style the application appropriately with CSS. Use 
 
 * Add the ability to edit articles
 * Instead of redirecting to `/authors/new` to create a new author, have the form appear using a Bootstrap modal.
-* Add the ability to create rich text articles and comments using Markdown.
-  * Front-end Bootstrap Markdown editor
-  * A markdown parser for your EJS templates
 
 ## Deliverables
 
